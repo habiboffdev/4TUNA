@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @4TUNA
 - 👀 I’m interested in Web Dev and AI.
 - 🌱 I’m currently learning DRF
-- 💞️ I’m looking to collaborate on "Anything".
+- 💞️ I’m looking to collaborate on "Anyproject".
 
 <!---
 4TUNA/4TUNA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
